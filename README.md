@@ -1,9 +1,22 @@
-## Datasets
+## Environment
 
+* python == 3.10.13
+* pytorch == 2.1.0
+* mamba-ssm == 1.0.1
+
+```python
+pip install -r requirements.txt
+```
+
+## Datasets
 
 ### official datasets 
 
 The original official datasets can be found at [Molecule3D](https://github.com/divelab/MoleculeX/tree/molx/Molecule3D) and [Qm9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904).
+
+### Datasets for training and evaluation
+
+The processed datasets for training and evaluation can be downloaded refer to [GTMGC](https://github.com/Rich-XGK/GTMGC).
 
 ## Experiments
 
