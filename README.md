@@ -41,3 +41,17 @@ python -m evaluate \
 ```
 
 We provide model weights for QM9: [Download](https://drive.google.com/drive/folders/1ua0S9Z9sBDwD0Gm832_ktu_CBcQDk9mw?usp=sharing)
+
+## Citation
+
+```bibtex
+@article{gou2025mamba,
+  title={Mamba-driven multi-perspective structural understanding for molecular ground-state conformation prediction},
+  author={Gou, Yuxin and Wu, Aming and Hong, Richang and Wang, Meng},
+  journal={arXiv preprint arXiv:2511.09564},
+  year={2025}
+}
+```
+
+## Acknowledgements
+Our codebase is based upon the works of [GTMGC](https://github.com/Rich-XGK/GTMGC) and [REBIND](https://github.com/holymollyhao/ReBIND/tree/main). We thank the authors for releasing their code.
